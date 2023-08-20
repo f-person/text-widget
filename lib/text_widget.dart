@@ -1,5 +1,4 @@
-import 'dart:io';
-
+import 'package:universal_io/io.dart';
 import 'package:flutter/material.dart';
 
 import 'text_widget_utils_android.dart';
